@@ -1,0 +1,19 @@
+button{
+    background-color: rgba(223, 37, 37, 0.877);
+    color:whitesmoke;
+    height:39px;
+    margin-right: 20px;
+}
+nav{
+    background-color: black;
+}
+img{
+    max-width: 20%;
+    max-height: 40%;
+}
+/* .list{
+    float:right;
+} */
+li{
+    float: right;
+}
